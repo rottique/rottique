@@ -8,8 +8,4 @@ ${\color{#f7f6f4} ᝰ🚬 \space}$
 
 ${\space}$
 
-${\color{#99835d} Report \space ur \space}$ ${\color{#b58787} sins \space}$
-[here](https://kiribaku.atabook.org/)
-${\space}$
-
-<img width="1200" height="808" alt="image" src="https://github.com/user-attachments/assets/1a41a17d-d888-40c9-bef2-3aa58c6f04ce" />
+${\color{#b58787} report \space ur \space sins \space}$ [here](https://kiribaku.atabook.org/)
