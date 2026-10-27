@@ -11,11 +11,11 @@ ${\space}$
 ${\space}$
 
 
-<img width="441" height="418" alt="bowtiepurple" src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" />
+<img width="241" height="218" alt="bowtiepurple" src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" />
 
-<img width="489" height="510" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/7231e6c6-d968-4165-9d25-0a0c53dc52b7" />
+<img width="289" height="310" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/7231e6c6-d968-4165-9d25-0a0c53dc52b7" />
 
-<img width="441" height="376" alt="rose" src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" />
+<img width="241" height="176" alt="rose" src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" />
 
 
 ${\color{#b58787} report \space ur \space sins \space}$ [here](https://kiribaku.atabook.org/)
