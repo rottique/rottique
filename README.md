@@ -10,4 +10,9 @@ ${\space}$
 
 ${\space}$
 
+
+<img width="441" height="418" alt="bowtiepurple" src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" />
+
+
+
 ${\color{#b58787} report \space ur \space sins \space}$ [here](https://kiribaku.atabook.org/)
