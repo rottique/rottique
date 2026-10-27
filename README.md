@@ -5,7 +5,8 @@
 
 ${\space}$
 
-<img width="1199" height="921" alt="image" src="https://github.com/user-attachments/assets/ab71b6dc-7a13-494a-b72c-bc58f413ff42" />
+<img width="441" height="798" alt="yorcrossleg" src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" />
+
 
 ${\space}$
 
