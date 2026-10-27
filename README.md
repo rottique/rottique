@@ -13,7 +13,7 @@ ${\space}$
     </td>
     <td width="30%">
       <a href="https://kiribaku.atabook.org/">
-        <img src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" width="100%" alt="bowtiepurple" />
+        <img src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" width="249" height="270"alt="bowtiepurple" />
       </a>
       <br />
       <a href="https://github.com/whatsahearrt">
@@ -21,7 +21,7 @@ ${\space}$
       </a>
       <br />
       <a href="https://guns.lol/suangel">
-        <img src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" width="100%" alt="rose" />
+        <img src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" width="241" height="176"alt="rose" />
       </a>
     </td>
   </tr>
