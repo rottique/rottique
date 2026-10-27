@@ -5,6 +5,33 @@
 
 ${\space}$
 
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="100%" alt="yorcrossleg" />
+    </td>
+    <td width="50%">
+      <a href="https://kiribaku.atabook.org/">
+        <img src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" width="100%" alt="bowtiepurple" />
+      </a>
+      <br />
+      <a href="https://github.com/whatsahearrt">
+        <img src="https://github.com/user-attachments/assets/7231e6c6-d968-4165-9d25-0a0c53dc52b7" width="100%" alt="image-removebg-preview" />
+      </a>
+      <br />
+      <a href="https://guns.lol/suangel">
+        <img src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" width="100%" alt="rose" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 <img width="441" height="798" alt="yorcrossleg" src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" />
 
 
