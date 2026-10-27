@@ -9,4 +9,4 @@ ${\space}$
 
 ${\space}$
 
-${\color{#f7f6f4} ᝰ🚬 \space}$ ${\color{#b58787} report \space ur \space sins \space}$ [here](https://kiribaku.atabook.org/)
+${\color{#b58787} report \space ur \space sins \space}$ [here](https://kiribaku.atabook.org/)
