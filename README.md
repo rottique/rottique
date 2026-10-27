@@ -1,5 +1,9 @@
 <div align="center">
 
+
+<img width="806" height="283" alt="Screenshot 2026-10-27 070013" src="https://github.com/user-attachments/assets/a7d54014-3f72-4f0d-88fa-9c482a96e8a0" />
+
+
 <img src="https://komarev.com/ghpvc/?username=rottique&label=kills&color=3f0732&style=flat" alt="rottique" />
 </p>
 
@@ -48,3 +52,6 @@ ${\space}$
     </td>
   </tr>
 </table>
+
+
+<img width="844" height="296" alt="image-removebg-preview (4)" src="https://github.com/user-attachments/assets/a7defaee-28bc-4407-bddb-508b5f5e4083" />
