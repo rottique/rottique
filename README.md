@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="806" height="283" alt="Screenshot 2026-10-27 070013" src="https://github.com/user-attachments/assets/a7d54014-3f72-4f0d-88fa-9c482a96e8a0" />
+<img width="847" height="295" alt="image-removebg-preview (3)" src="https://github.com/user-attachments/assets/5d0c0500-82c4-4cce-904d-88fadd22b43f" />
 
 
 <img src="https://komarev.com/ghpvc/?username=rottique&label=kills&color=3f0732&style=flat" alt="rottique" />
