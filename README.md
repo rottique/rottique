@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rottique&label=ᖳᖰ&color=3f0732&style=flat" alt="rottique" />
+<img src="https://komarev.com/ghpvc/?username=rottique&label=ᝰ🚬&color=3f0732&style=flat" alt="rottique" />
 </p>
 
 ${\space}$
