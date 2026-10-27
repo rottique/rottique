@@ -3,6 +3,7 @@
 
 <img width="847" height="295" alt="image-removebg-preview (3)" src="https://github.com/user-attachments/assets/5d0c0500-82c4-4cce-904d-88fadd22b43f" />
 
+${\space}$
 
 <img src="https://komarev.com/ghpvc/?username=rottique&label=kills&color=3f0732&style=flat" alt="rottique" />
 </p>
@@ -53,5 +54,8 @@ ${\space}$
   </tr>
 </table>
 
+${\space}$
+${\space}$
+${\space}$
 
 <img width="844" height="296" alt="image-removebg-preview (4)" src="https://github.com/user-attachments/assets/a7defaee-28bc-4407-bddb-508b5f5e4083" />
