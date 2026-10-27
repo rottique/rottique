@@ -8,10 +8,10 @@ ${\space}$
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="100%" alt="yorcrossleg" />
+    <td width="70%">
+      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="241" height="218" alt="yorcrossleg" />
     </td>
-    <td width="50%">
+    <td width="30%">
       <a href="https://kiribaku.atabook.org/">
         <img src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" width="100%" alt="bowtiepurple" />
       </a>
