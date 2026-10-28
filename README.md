@@ -63,6 +63,4 @@ ${\space}$
 
 ${\space}$
 
-${\space}$
-
 <img width="844" height="296" alt="image-removebg-preview (4)" src="https://github.com/user-attachments/assets/a7defaee-28bc-4407-bddb-508b5f5e4083" />
