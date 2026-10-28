@@ -15,7 +15,7 @@ ${\space}$
 <table>
   <tr>
     <td width="150%">
-      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="100%" alt="yorcrossleg" />
+      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="150%" alt="yorcrossleg" />
     </td>
     <td width="20%" align="center">
       <table>
