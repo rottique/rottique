@@ -55,7 +55,6 @@ ${\space}$
   </tr>
 </table>
 
-${\space}$
 
 ${\space}$
 
