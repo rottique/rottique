@@ -40,7 +40,7 @@ ${\space}$
           </td>
         </tr>
         <tr>
-          <td align="center">${\color{#8ca097} ۶ৎ \space 𝖌𝖚𝖓𝖘 \space ۶ৎ}$</td>
+          <td align="center">${\color{#8ca097} ﹌﹌﹌﹌﹌ \space 𝖌𝖚𝖓𝖘 \space ﹌﹌﹌﹌﹌}$</td>
         </tr>
         <tr>
           <td align="center">
