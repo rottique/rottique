@@ -12,8 +12,6 @@ ${\space}$
 
 ${\space}$
 
-${\space}$
-
 
 <table>
   <tr>
