@@ -9,9 +9,7 @@ ${\space}$
 </p>
 
 ${\space}$
-
-
-<img width="441" height="798" alt="yorcrossleg" src="https://github.com/user-attachments/assets/3d6e6998-8aa8-40cb-9dba-11038fe9e21b" />
+${\space}$
 
 
 <table>
