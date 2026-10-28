@@ -31,7 +31,7 @@ ${\space}$
           </td>
         </tr>
         <tr>
-          <td align="center">${\color{#823966} ⏔⏔⏔ ꒰ }$ ${\color{#823966} 𝖒𝖆𝖎𝖓 }$ ${\color{#823966} ꒱ ⏔⏔⏔ }$</td>
+          <td align="center">${\color{#5a1a44} ⏔⏔⏔ ꒰ }$ ${\color{#823966} 𝖒𝖆𝖎𝖓 }$ ${\color{#5a1a44} ꒱ ⏔⏔⏔ }$</td>
         </tr>
         <tr>
           <td align="center">
