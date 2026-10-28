@@ -41,7 +41,7 @@ ${\space}$
           </td>
         </tr>
         <tr>
-          <td align="center">${\color{#515d57} ⏔⏔⏔ ꒰ }$ ${\color{#8ca097} 𝖌𝖚𝖓𝖘 }$ ${\color{#515d57} ꒱ ⏔⏔⏔ }$</td>
+          <td align="center">${\color{#515d57} ⏔⏔⏔ ꒰ }$ ${\color{#7b8d8b} 𝖌𝖚𝖓𝖘 }$ ${\color{#515d57} ꒱ ⏔⏔⏔ }$</td>
         </tr>
         <tr>
           <td align="center">
