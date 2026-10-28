@@ -25,7 +25,7 @@ ${\space}$
         <tr>
           <td align="center">
             <a href="https://kiribaku.atabook.org/">
-              <img src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" width="04%" alt="bowtiepurple" />
+              <img src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" width="20%" alt="bowtiepurple" />
             </a>
           </td>
         </tr>
@@ -35,7 +35,7 @@ ${\space}$
         <tr>
           <td align="center">
             <a href="https://github.com/whatsahearrt">
-              <img src="https://github.com/user-attachments/assets/7231e6c6-d968-4165-9d25-0a0c53dc52b7" width="04%" alt="main" />
+              <img src="https://github.com/user-attachments/assets/7231e6c6-d968-4165-9d25-0a0c53dc52b7" width="20%" alt="main" />
             </a>
           </td>
         </tr>
@@ -45,7 +45,7 @@ ${\space}$
         <tr>
           <td align="center">
             <a href="https://guns.lol/suangel">
-              <img src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" width="04%" alt="rose" />
+              <img src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" width="20%" alt="rose" />
             </a>
           </td>
         </tr>
