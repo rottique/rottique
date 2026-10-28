@@ -20,7 +20,7 @@ ${\space}$
     <td width="25%" align="center">
       <table>
         <tr>
-          <td align="center">${\color{#8ca097} ‿‿‿‿ \space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ‿‿‿‿}$</td>
+          <td align="center">${\color{#8ca097} ﹌﹌﹌﹌﹌\space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ﹌﹌﹌﹌﹌}$</td>
         </tr>
         <tr>
           <td align="center">
