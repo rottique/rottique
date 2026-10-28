@@ -17,7 +17,7 @@ ${\space}$
 <table>
   <tr>
     <td width="90%">
-      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="90%" alt="yorcrossleg" />
+      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="441" height="798" alt="yorcrossleg" />
     </td>
     <td width="10%" align="center">
       <table>
