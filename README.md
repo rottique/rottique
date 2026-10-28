@@ -21,7 +21,7 @@ ${\space}$
     <td width="20%" align="center">
       <table>
         <tr>
-          <td align="center">${\color{#515d57} ⏔⏔⏔ ꒰ }$ ${\color{#8ca097} 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 }$ ${\color{#515d57} ꒱ ⏔⏔⏔ }$</td>
+          <td align="center">${\color{#515d57} ⏔⏔⏔ ꒰ }$ ${\color{#7b8d8b} 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 }$ ${\color{#515d57} ꒱ ⏔⏔⏔ }$</td>
         </tr>
         <tr>
           <td align="center">
