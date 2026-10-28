@@ -20,7 +20,7 @@ ${\space}$
     <td width="25%" align="center">
       <table>
         <tr>
-          <td align="center">${\color{#540434} ۶ৎ \space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ۶ৎ}$</td>
+          <td align="center">${\color{#6e747d} ۶ৎ \space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ۶ৎ}$</td>
         </tr>
         <tr>
           <td align="center">
@@ -40,7 +40,7 @@ ${\space}$
           </td>
         </tr>
         <tr>
-          <td align="center">${\color{#540434} ۶ৎ \space 𝖌𝖚𝖓𝖘 \space ۶ৎ}$</td>
+          <td align="center">${\color{#6e747d} ۶ৎ \space 𝖌𝖚𝖓𝖘 \space ۶ৎ}$</td>
         </tr>
         <tr>
           <td align="center">
