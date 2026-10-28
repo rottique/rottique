@@ -30,7 +30,7 @@ ${\space}$
           </td>
         </tr>
         <tr>
-          <td align="center">${\color{#540434} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
+          <td align="center">${\color{#f2e8bf} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
         </tr>
         <tr>
           <td align="center">
