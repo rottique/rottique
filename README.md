@@ -5,7 +5,7 @@
 
 ${\space}$
 
-<img src="https://komarev.com/ghpvc/?username=rottique&label=𝖆𝖘𝖘𝖆𝖘𝖎𝖓𝖆𝖙𝖎𝖔𝖓&color=3f0732&style=flat" alt="rottique" />
+<img src="https://komarev.com/ghpvc/?username=rottique&label=assasination&color=3f0732&style=flat" alt="rottique" />
 </p>
 
 ${\space}$
