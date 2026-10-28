@@ -30,7 +30,7 @@ ${\space}$
           </td>
         </tr>
         <tr>
-          <td align="center">${\color{#823966} ‿‿‿‿ \space 𝖒𝖆𝖎𝖓 \space ‿‿‿‿}$</td>
+          <td align="center">${\color{#823966} ‿‿‿‿‿‿ \space 𝖒𝖆𝖎𝖓 \space ‿‿‿‿‿‿}$</td>
         </tr>
         <tr>
           <td align="center">
@@ -40,7 +40,7 @@ ${\space}$
           </td>
         </tr>
         <tr>
-          <td align="center">${\color{#8ca097} ﹌﹌﹌﹌﹌ \space 𝖌𝖚𝖓𝖘 \space ﹌﹌﹌﹌﹌}$</td>
+          <td align="center">${\color{#8ca097} ﹌﹌﹌﹌﹌﹌ \space 𝖌𝖚𝖓𝖘 \space ﹌﹌﹌﹌﹌﹌}$</td>
         </tr>
         <tr>
           <td align="center">
