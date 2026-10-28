@@ -14,54 +14,9 @@ ${\space}$
 
 
 <table>
-<tr>
-<td width="75%">
-<img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="100%" alt="yorcrossleg" />
-</td>
-<td width="25%" align="center">
-<table>
-<tr>
-<td align="center">${\color{#8ca097} ﹌﹌\space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ﹌﹌}$</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://kiribaku.atabook.org/">
-<img src="https://github.com/user-attachments/assets/252c7823-6408-4194-ad61-1c7294a6ff25" width="20%" alt="bowtiepurple" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">${\color{#823966} ‿‿‿ \space 𝖒𝖆𝖎𝖓 \space ‿‿‿}$</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/whatsahearrt">
-<img src="https://github.com/user-attachments/assets/7231e6c6-d968-4165-9d25-0a0c53dc52b7" width="20%" alt="main" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">${\color{#8ca097} ﹌﹌﹌ \space 𝖌𝖚𝖓𝖘 \space ﹌﹌﹌}$</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://guns.lol/suangel">
-<img src="https://github.com/user-attachments/assets/881851ba-8ac6-4882-9ea0-3d8922ded915" width="20%" alt="rose" />
-</a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-
-
-
-<table>
   <tr>
     <td width=80%">
-      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="441" height="798" alt="yorcrossleg" />
+      <img src="https://github.com/user-attachments/assets/cb2c577f-25b3-4d1b-a515-ecceacdae4fc" width="100%" alt="yorcrossleg" />
     </td>
     <td width="20%" align="center">
       <table>
